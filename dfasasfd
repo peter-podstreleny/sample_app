@@ -1,0 +1,41 @@
+commit 8a2032da7d52a97917b7237663ca13fe0fa2edcf
+Author: Peter Podstreleny <peter.podstreleny@gmail.com>
+Date:   Thu Jun 10 12:28:35 2010 +0800
+
+    Removed default Rails page
+
+commit a3d07f8f18487530b28d982edf232f108919873f
+Author: Peter Podstreleny <peter.podstreleny@gmail.com>
+Date:   Tue Jun 1 14:51:17 2010 +0200
+
+    Changes to environment.rb
+
+commit af44b918cc279794e906fbe60a09930af77e507d
+Author: Peter Podstreleny <peter.podstreleny@gmail.com>
+Date:   Tue Jun 1 14:48:49 2010 +0200
+
+    Changes in the environment.rb
+
+commit 905f47292d40a675bf05a1a22b5ebef95732e37f
+Author: Peter Podstreleny <peter.podstreleny@gmail.com>
+Date:   Tue Jun 1 14:44:57 2010 +0200
+
+    Done with static pages
+
+commit d8e5fe4adb8f4d4beef86d2ef718f9f9736dfcaf
+Author: Peter Podstreleny <peter.podstreleny@gmail.com>
+Date:   Tue Jun 1 10:28:04 2010 +0200
+
+    Added RSpec files
+
+commit 4f659a488f998e4017a0616c14e93073b695558f
+Author: Peter Podstreleny <peter.podstreleny@gmail.com>
+Date:   Tue Jun 1 09:55:44 2010 +0200
+
+    Adding Pages controller and fixing the environment error
+
+commit eb77fa368dbb9add3a74aa5e5b53cdda41849bb2
+Author: Peter Podstreleny <peter.podstreleny@gmail.com>
+Date:   Fri May 28 09:39:27 2010 +0800
+
+    Initial commit
